@@ -1,0 +1,19 @@
+Assembler Python 구현
+Pycharm 환경에서 구현
+
+src / 
+Assembler.py (Main Method)
+InstTable.py
+LiteralTable.py
+SymbolTable.py
+TokenTable.py
+
+res / 
+input.txt (Input)
+inst.data (Input)
+literaltab.txt (Output)
+symbtab.txt (Output)
+output.txt (OutPut)
+
+package / 
+multipledispatch
