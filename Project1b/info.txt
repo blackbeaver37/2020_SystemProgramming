@@ -11,6 +11,6 @@ TokenTable.java
 res / 
 input.txt (Input)
 inst.data (Input)
-literaltab (Output)
-symbtab (Output)
-output (OutPut)
+literaltab.txt (Output)
+symbtab.txt (Output)
+output.txt (OutPut)
