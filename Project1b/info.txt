@@ -1,0 +1,16 @@
+Assembler JAVA 구현
+Eclipse 환경에서 구현
+
+src / 
+Assembler.java (Main Method)
+InstTable.java
+LiteralTable.java
+SymbolTable.java
+TokenTable.java
+
+res / 
+input.txt (Input)
+inst.data (Input)
+literaltab (Output)
+symbtab (Output)
+output (OutPut)
